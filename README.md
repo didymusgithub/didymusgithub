@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/tohdidymus" target="blank"><img src="https://img.shields.io/twitter/follow/tohdidymus?logo=twitter&style=for-the-badge" alt="tohdidymus" /></a> </p>
 
 - 🌱 I’m currently learning **motoko,aws,Django...**
+-  Some of my projects [Bus management system](https://bus-management-system.onrender.com)
+-  [Fulltack Freelancing website](https://camfreelance.onrender.com/)
 
 - 📝 I regularly write articles on [www.nexuspire.com](www.nexuspire.com)
 
