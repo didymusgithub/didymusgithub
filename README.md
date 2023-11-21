@@ -11,6 +11,7 @@
 -  Some of my projects
   <p>  [Bus management system](https://bus-management-system.onrender.com)</p>
   <p>[Fulltack Freelancing website](https://camfreelance.onrender.com/)</p>
+  <p>[nexuspire website](https://www.nexuspire.com.com/)</p>
 
 - 📝 I regularly write articles on [www.nexuspire.com](www.nexuspire.com)
 
