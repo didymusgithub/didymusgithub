@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tohdidymus" target="blank"><img src="https://img.shields.io/twitter/follow/tohdidymus?logo=twitter&style=for-the-badge" alt="tohdidymus" /></a> </p>
 
-- 🌱 I’m currently learning **motoko,aws,Django...**
+- 🌱 I’m currently learning **motoko,aws,Django,postgresql...**
 -  Some of my projects
   <p>  [Bus management system](https://bus-management-system.onrender.com)</p>
   <p>[Fulltack Freelancing website](https://camfreelance.onrender.com/)</p>
